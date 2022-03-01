@@ -1,0 +1,656 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quakerism the mystery of iniquity discovered in a brief dialogue between a Christian &amp; a Quaker: By way of supplement to my former papers exhibited in Dublin against them, in two of the most important particulars charg'd upon them; viz. the holy Scriptures, and our Lord Jesus Christ; in which it doth most evidently appear, that both are denied by them, in a true, Christian, and proper sense. / By John Plimpton.</title>
+            <author>Plimpton, John, fl. 1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04736</idno>
+            <idno type="STC">Wing P2572</idno>
+            <idno type="STC">ESTC R181887</idno>
+            <idno type="EEBO-CITATION">51617506</idno>
+            <idno type="OCLC">ocm 51617506</idno>
+            <idno type="VID">175323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04736)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175323)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2729:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quakerism the mystery of iniquity discovered in a brief dialogue between a Christian &amp; a Quaker: By way of supplement to my former papers exhibited in Dublin against them, in two of the most important particulars charg'd upon them; viz. the holy Scriptures, and our Lord Jesus Christ; in which it doth most evidently appear, that both are denied by them, in a true, Christian, and proper sense. / By John Plimpton.</title>
+                  <author>Plimpton, John, fl. 1698.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>Printed 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175323:1" rendition="simple:additions"/>
+            <p>
+               <hi>Quakeriſm</hi> The Myſtery of INIQUITY Diſcovered: In a Brief DIALOGUE Between A Chriſtian &amp; a Quaker: By way of Supplement To my former Papers Exhibited in <hi>D<g ref="char:V">Ʋ</g>BLIN</hi> againſt them, in two of the moſt important par<g ref="char:EOLhyphen"/>ticulars charg'd upon them; <hi>Viz.</hi> The Holy Scriptures, and our Lord <hi>Jeſus Christ;</hi> in which it doth moſt evidently appear, that both are denied by them, in a true, Chriſtian, and proper ſenſe.</p>
+            <p>By <hi>John Plimpton.</hi>
+            </p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed 1698.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:175323:2"/>
+            <pb facs="tcp:175323:2"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Shall here preſent thee with this enſu<g ref="char:EOLhyphen"/>ing Dialogue, between <hi>a Chriſtian</hi> and <hi>a Quaker;</hi> In which are faithfully repre<g ref="char:EOLhyphen"/>ſented, the Quakers Opinions concerning the Holy Scriptures, and our Bleſſed Lord and Saviour Jeſus Chriſt. I doubt not but it will be return'd, as forgeries and fictions, upon my own head, the common anſwer they have for all their Adverſaries: But I am conſcious to my ſelf that I have not wrong'd them in any thing, either by miſ-reading, curtailing, miſ-conſtruing, or miſ-applying any paſſage I have quoted out of their Books. I am willing therefore to appear in publick, that ſo theſe things may be more fully, clearly, and plainly diſcovered and laid open for common benefit, and for examination of my charges, to ſee if I have wrong'd them or not: But this you ſee they wholly de<g ref="char:EOLhyphen"/>cline; and their reaſon is, becauſe I am an ignorant, conceited, and empty perſon, and therefore they think themſelves not accoun<g ref="char:EOLhyphen"/>table for theſe things, unto a perſon under my circumſtance, &amp;c. but certainly this is but a Quakers Quibble, as all men may plainly diſcern; for if they think them<g ref="char:EOLhyphen"/>ſelves
+<pb facs="tcp:175323:3"/>
+not oblig'd to meet me in publick, why do they ſo much concern themſelves in Prin<g ref="char:EOLhyphen"/>ting, one Pamphlet after another, and to exhibit the ſame up and down privately; is it not to cover over their deceit and wickedneſs, and to inſinuate upon peoples minds, that they are better in their Opinions than really they are. Now, to the end I might not be burthenſome to my ſelf in writing, nor to the Reader in reading, I ſhall only inſiſt upon theſe two things before men<g ref="char:EOLhyphen"/>tioned: for if the true Chriſt be denied by them, then is Satisfaction, Juſtification, Baptiſm, and the Lord's Supper, and all other things clearly gone; the foundation being deſtroyed, the houſe muſt of neceſſity fall. Now I do affirm, Chriſt and the Scriptures are divided by them; and therefore all they ſay of them, is but meer Equivocations, and the Quakers Miniſtry are but meer Impo<g ref="char:EOLhyphen"/>ſters and Cheats.</p>
+            <p>Conſider well what thou readeſt, and the Lord give thee underſtanding. If God ſhall have any glory, and thou ſhalt receive any benefit, I have my end,</p>
+            <closer>
+               <signed>J. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="5" facs="tcp:175323:3"/>
+            <head>A BRIEF DIALOGUE Between A CHRISTIAN &amp; a Quaker.</head>
+            <sp>
+               <speaker>Chri<g ref="char:EOLhyphen"/>ſtian.</speaker>
+               <p>VVEll met Neighbour, I would fain have ſome Diſcourſe with you: for I have read in ſeveral of your Adverſaries Books, that you hold dangerous Errors, aſſerting thoſe things that are notoriouſly falſe, and denying thoſe things that are re<g ref="char:EOLhyphen"/>ally true; and more particularly, the holy Scriptures, and our Lord and Sa<g ref="char:EOLhyphen"/>viour Jeſus Chriſt. What ſayeſt thou to this?</p>
+            </sp>
+            <sp>
+               <speaker>Quaker.</speaker>
+               <p>I have told thee, ſtrainings, perverſions, and falſe inferences, are the frequent practice of our Adverſaries, <hi>the Qua. a Chriſtian, p.</hi> 3.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>I know this is your common an<g ref="char:EOLhyphen"/>ſwer,
+<pb n="6" facs="tcp:175323:4"/>
+but whether it be true, I queſtion. What ſayeſt thou therefore to the Scrip<g ref="char:EOLhyphen"/>tures?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>I do declare to the whole world, that we believe the Scriptures to con<g ref="char:EOLhyphen"/>tain a declaration of the mind and will of God, in and to thoſe ages in which they were written, <hi>ibid. p.</hi> 9.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>What is this to the purpoſe; I know thou canſt uſe a thouſand ſuch E<g ref="char:EOLhyphen"/>quivocations: But tell me plainly, are the Scriptures the rule of Faith and Pra<g ref="char:EOLhyphen"/>ctice, or not?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Becauſe we deny the Scriptures to be the rule of Faith and Practice, in honour to that divine light that gave them forth, <hi>ibid. p.</hi> 15.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Wilt thou confeſs my charges, and yet think to prove thy ſelf a Chri<g ref="char:EOLhyphen"/>ſtian, and render my Impeachment as vain; certainly thou art infatuated, or worſe, otherwiſe thou would'ſt never talk at ſuch a vain rate, and render thy ſelf ſuch a ridiculous Scribler to all the world.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Thou haſt left out what follows, <hi>viz.</hi> which was the Author of them in
+<pb n="7" facs="tcp:175323:4"/>
+the holy Pen-men; that we ſhould therefore deny all thoſe holy precepts, commandments and rules relating to life and godlineſs that are therein con<g ref="char:EOLhyphen"/>tained,—If thou had'ſt cited this, thou had'ſt loſt thy end; as not doing it, ſhews thy malice and folly together, <hi>ibid.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Thou haſt abſolutely denied them to be the rule of Faith and Pra<g ref="char:EOLhyphen"/>ctice; and yet in the ſame breath would'ſt have me believe that thou do'ſt own thoſe holy precepts, com<g ref="char:EOLhyphen"/>mandments and rules relating to life and godlineſs therein contained: Is not this to ſay, they are not to be believed nor practiced; and yet to ſay they ought to be believed and practiced; and is not this heterodox: or are we to own that for precepts, commandments, and rules, which we are not to believe, which is abſurd. But ſince you ſeem to own the Scriptures in ſome ſenſe, do you own them to be the true ſayings of God?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Yea, ſo far as they agree to the Light within?</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>'Tis evident what eſteem you
+<pb n="8" facs="tcp:175323:5"/>
+have of the Scriptures, ſince you own theſe holy precepts, commandments and rules therein contained, no farther than the Light within directs you.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>I have told thee this is forgery, palpable forgery, <hi>Count. Chriſt. p.</hi> 11.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>I know you are ready to accuſe me of forgery: but pray tell me how far you do own and receive them.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>By what rule ſhall we be con<g ref="char:EOLhyphen"/>vinced, that the Scripture is the only rule of Life, and hath this eminency above the Spirit: we own the Spirit to be the only rule and guide into all truth,—and is the only rule now to under<g ref="char:EOLhyphen"/>ſtand the Scriptures; <hi>G. W. Apol. p.</hi> 48.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Thou querieſt here by what rule thou mayeſt be convinced that the Scrip<g ref="char:EOLhyphen"/>tures are the only rule: Hence 'tis evi<g ref="char:EOLhyphen"/>dent thou doſt not own them ſo to be; and then ſayeſt the Spirit is the only rule to guide into all truth, and to under<g ref="char:EOLhyphen"/>ſtand the Scriptures by: is not <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to grant what is charg'd upon you <hi>viz.</hi> that you deny them to be the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ule of Faith and Practice, and that you own them no further man they agree with the Light within.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:175323:5"/>
+               <speaker>Qu.</speaker>
+               <p>I would fain know of thoſe of our preſent age,—upon what foot they receive them into this place and authority; is it by tradition, or revela<g ref="char:EOLhyphen"/>tion? I mean the internal teſtimony of the Spirit, or the external award and avouchment of men: if the former, they unavoidably come over to us; for then the Spirit will, and muſt be both rule and judge, <hi>W. Pen Chriſtian Qua<g ref="char:EOLhyphen"/>ker, p.</hi> 141.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Then the reaſon why men ought to live up to thoſe holy rules laid down in the Scriptures, is not from that di<g ref="char:EOLhyphen"/>vine authority that is impoſed upon them: men are no further obliged either to Faith or Obedience, than the Light within moves them thereunto, <hi>&amp;c.</hi> The Scriptures muſt be receiv'd upon the authority of the Light within, or upon the authority of men, or upon their own authority: both the latter are abſurd in your eyes, therefore the former only is true. Not from men, nor tradition, for thou ſayeſt that is Popery, and believing as the Church believes, <hi>ibid. p.</hi> 142. again thou querieſt, <hi>p.</hi> 140, 141. How ſhall I
+<pb n="10" facs="tcp:175323:6"/>
+be aſſured the Scriptures came from God? I am bound to try all things, then them among the reſt. I would fain know what I muſt try them with? with the Scriptures? then the Scrip<g ref="char:EOLhyphen"/>tures muſt be the rule of my examina<g ref="char:EOLhyphen"/>tion, and Faith concerning themſelves; which is improper. <hi>W. Pen,</hi> haſt thou not here reprobated the Scriptures with a witneſs! certainly you are the moſt prodigious Hereticks and Impoſters that ever any age did produce.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Whether the firſt Penman of the Scriptures was <hi>Moſes,</hi> or <hi>Hermes?</hi> or whether both theſe are not one? or whether there are not many words con<g ref="char:EOLhyphen"/>tained in the Scriptures, which were not ſpoken by inſpiration of the holy Spirit? whether ſome words were not ſpoken by the grand Impoſter, ſome by wicked men, ſome by wiſe men, ill applied; ſome by good men, ill expreſſed; ſome by falſe Prophets, and yet true; ſome by true Prophets, and yet falſe? <hi>Qua<g ref="char:EOLhyphen"/>kers Refuge, p.</hi> 17.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Well if it be thus, then whether it is not dangerous, to receive the Scrip<g ref="char:EOLhyphen"/>tures
+<pb n="11" facs="tcp:175323:6"/>
+any further then they agree with the Light within? and if <hi>Moſes</hi> and <hi>Her<g ref="char:EOLhyphen"/>mes,</hi> be both one; then whether thy que<g ref="char:EOLhyphen"/>ry be not frivolous? if not, then whether the firſt, with all the reſt of thy queries be not very miſchievous? having this na<g ref="char:EOLhyphen"/>tural tendency to prejudice the weak Reader. And ſo theſe things being ta<g ref="char:EOLhyphen"/>ken collectively: Whether 1ſt. thou wouldſt not throw aſide a great part of the holy Scripture as doubtful; particularly the Books of <hi>Moſes.</hi> 2. Whe<g ref="char:EOLhyphen"/>ther thou wouldſt not have ſome part to be diabolical? 3. Some part falſe. 4. Some part fooliſh, both in expreſſion and application. 5. And ſome part lit<g ref="char:EOLhyphen"/>tle to be regarded though true, beeauſe ſpoken by Lyars. 6. Some part ſpoken by inſpiration, and yet of no Authority, becauſe falſe: and ſo no part of it the true Record, or Declaration of God's Love for the Salvation of Mankind; for that, or nothing, is the implication of thy diſtinctions: but what further haſt thou to ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Though we do ſay, men ought to live up to thoſe holy rules contained in
+<pb n="12" facs="tcp:175323:7"/>
+the Scipture, yet the reaſon why, is that conviction they meet with from the Light in their own Conſciences: there<g ref="char:EOLhyphen"/>fore the Light within is both our war<g ref="char:EOLhyphen"/>rant for ſaith in, and obedience to them, <hi>Reaſon againſt rail.</hi> pag. 48.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Certainly, thou <hi>(W. Pen)</hi> art a ſhameleſs man, thou doſt not care what thou doſt affirm, or deny, ſo it may ſerve for thy Intereſt: but if thou haſt any ſhame in thee, I will make thee aſham'd. Didſt thou not affirm, in pag. 47. that the greateſt reaſon of your belief concer<g ref="char:EOLhyphen"/>ning the Propheſies, and Promiſes recor<g ref="char:EOLhyphen"/>ded in the Scriptures, was not from any outward thing, but that inward teſti<g ref="char:EOLhyphen"/>mony that you have received from the holy Light within you, to the truth and faithfulneſs of thoſe ſayings. And now <hi>W. P.</hi> after thou hadſt writ all this, and much more, that might be minded; thou haſt charg'd <hi>T. H.</hi> with forgery, becauſe he charg'd the <hi>Quakers</hi> with the truth: certainly thou muſt be an Athieſt, or a Perſon given up to a reprobate mind, or elſe thou couldſt not remain Impeni<g ref="char:EOLhyphen"/>tent, as 'tis evident thou doſt, by thoſe
+<pb n="13" facs="tcp:175323:7"/>
+Papers thou haſt ſet forth of late: Oh! <hi>W. Pen,</hi> repent if thy day of grace be not over. But ſince thou haſt ſo much favour for the Scriptures, as to receive them ſo far as they agree with the Light within, pray tell me whether you do not eſteem your own words (as ſpoken im<g ref="char:EOLhyphen"/>mediately by the Spirit) to be of greater authority then any Chapter in the Bible.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>That which was ſpoken from the Spirit of truth in any, is of as great au<g ref="char:EOLhyphen"/>thority as the Scriptures, or Chapters are; and greater. <hi>G. W. Apol.</hi> pag. 49.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>But how can that which is ſpo<g ref="char:EOLhyphen"/>ken by a <hi>Quaker</hi> (ſuppoſing though not granting, to be from the Spirit of truth) be of greater authority then that which the holy Spirit hath ſpoken in the Scrip<g ref="char:EOLhyphen"/>tures? but ſince you exalt your words to be above the Scriptures, pray what do you think of your writings.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>
+                  <hi>Fox</hi> and <hi>Hubberth<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rne,</hi> in a Book of theirs, called, <hi>Truths Defence,</hi> pag. 2. in anſwer to Parſon <hi>Comelford</hi> of <hi>Stavely</hi> Chappel; the Auth<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aving ſent ſome queries to the P<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>, who inſtead of
+<pb n="14" facs="tcp:175323:8"/>
+ſwering them, burned them: thereupon he tells the Parſon the ſaid Book and page, that he might as well have con<g ref="char:EOLhyphen"/>demned the Scriptures to the fire to be burned, as his queries he ſent him; or that he might as well have ſaid, the ſay<g ref="char:EOLhyphen"/>ing of Chriſt and his Apoſtles were ab<g ref="char:EOLhyphen"/>ſur'd as his queries, they (meaning his Queries) being given forth by the ſame Spirit, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Certainly, theſe are great ſwel<g ref="char:EOLhyphen"/>ling words of Vanity; if you propound queries to any, they muſt be eſtemed e<g ref="char:EOLhyphen"/>qual with the Scriptures: but if any propound queries to you, they muſt be doom'd, as conjured up in the black Art, out of the bottomleſs pit: that they are the Language of a white devil, pro<g ref="char:EOLhyphen"/>pounded in the ſubtilty of unclean wiſ<g ref="char:EOLhyphen"/>dom, only to carp, cavil, and to inſnare the innocent, Certainly were you ſuch innocent Perſons, as you pretend to be, you would never exalt your ſelves, and debaſe all others, nay you would not ex<g ref="char:EOLhyphen"/>alt your own words, and writings, above, nor equal with the Scriptures. But ſince you thus under-value the Scrip<g ref="char:EOLhyphen"/>tures,
+<pb n="15" facs="tcp:175323:8"/>
+don't you believe them to be the true ſayings of God.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>I have told thee before, that ſome were ſpoken by falſe Prophets, and yet true, and ſome by true Prophets, and yet falſe. And <hi>Samuel Fiſher</hi> in his ruſtick alarm, to the <hi>Rabies,</hi> tells thee, that they are falſe, and falſified: both Tranſcripts and Tranſlations; yea, that none of them are right.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Certainly you are vile wretches, the very prodigy of the times we live in, for ſhould any wiſe man read, and conſider well what you have written, he muſt needs conclude, that you have con<g ref="char:EOLhyphen"/>ſpir'd together to under-value the Scrip<g ref="char:EOLhyphen"/>tures, and to expoſe them to the greateſt ſcorn and contempt in the world. But what ſaith <hi>W. Pen</hi> to this.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>If the Scriptures are the rule, they are ſo either in their Original or Copies; if in their Original that is not extant, then no rule in being, for the laſt of it that was extant. Was <hi>John</hi>'s Hiſtory at <hi>Epheſus</hi> not ſeen theſe thou<g ref="char:EOLhyphen"/>ſand years: if the Copies muſt be the
+<pb n="16" facs="tcp:175323:9"/>
+rule, it were to be wiſhed, we knew which were the righteſt to the Original, there being above thirty in number: this is undetermined, and for ought we ſee indeterminable: and that which makes good what I ſay, are the variety of readings among thoſe Copies, amoun<g ref="char:EOLhyphen"/>ting to ſeveral thouſands; and if the Copies cannot, how can the Tranſlations be the rule ſo d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffering from the true ſence of the Copies, in many things, and from another: beſides, I would fain know of <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoſe of our preſent age, who thus contend for the Scriptures being the rule, <hi>&amp;c.</hi>—upon what foot they re<g ref="char:EOLhyphen"/>ceive them into this place and authority. <hi>W. P. Chriſtian Quaker. pag.</hi> 141.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>I perceive thou doſt not only deny the Scriptures to be the Rule of Faith and Practice, but doſt alſo queſtion by what authority we do receive them, and thy reaſons for ſo doing is, 1ſt. Be<g ref="char:EOLhyphen"/>cauſe the Original is loſt. 2. Becauſe the Copies be above thirty in number. 3. Becauſe there be ſeveral thouſands of different readings in thoſe Copies. 4. Becauſe the Tranſlations are ſo differing
+<pb n="17" facs="tcp:175323:9"/>
+from the true ſence of the Copies in ma<g ref="char:EOLhyphen"/>ny things. Thus, oh you <hi>Quakers</hi> have repreſented the Scriptures, in a worſe ſenſe than ever I read or heard any Je<g ref="char:EOLhyphen"/>ſuit, or Romaniſt ever did; for tho' they cenſure our Tranſl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions in ſome things, yet I never heard but they did ſpeak well of the Copies. Thus have you rendred the Scriptures altogether unprofitable: For if there be ſo many thouſands of Errors in them, how ſhall I know what is right. And ſo this will make good what you formerly ſaid, <hi>viz.</hi> That it was dangerous for ignorant Peo<g ref="char:EOLhyphen"/>ple to read them. Well, your opinions are ſo naucious, it makes my ſtomack be<g ref="char:EOLhyphen"/>gin to wamble, it is almoſt time to leave it; however before we part, let me ask you one queſtion or two more. For ſince you pretend ſometimes to own thoſe holy Precepts, and Commandment therein contained; I would know to whom they are commanded.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>That is no command from God to me, which he commands to another; neither did any of the Saints, we read of in Scripture, act by the command
+<pb n="18" facs="tcp:175323:10"/>
+which was to another, <hi>&amp;c.</hi> They obeyed every one their own command; and thou <hi>J. Turner,</hi> or any other who goes to Duty, as you call it, by Imitation from the Letter without, which were commands to others, in your own wills and time; your Sacrifice is not accep<g ref="char:EOLhyphen"/>ted, but is an abomination to the Lord. <hi>Edw. Borrough's Works. p.</hi> 47.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>If it be an abomination to the Lord to do thoſe commands which were given to others, as <hi>Borrough</hi>'s ſays. And Ido<g ref="char:EOLhyphen"/>latry to call the Bible, a means of our knowing God, as <hi>G. W.</hi> ſays <hi>Dip. plung'd p.</hi> 13. Then whether we may not caſt off all commands in Scripture, until commanded a-new by the Light within: And whether this be not the reaſon why you caſt off all duty? neglecting Prayer in your Familles, not accounting your ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves under that curſe, <hi>Jer.</hi> 10.25. alſo craving no bleſſing upon your victuals, before you eat, nor returning any thanks after, but ſit down, and riſe up like hogs. Certainly theſe things are very offenſive, to all that are Chriſtians indeed. If this be Quakeriſm, the Lord deliver me from it. But can'ſt thou ſay no more.</p>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:175323:10"/>
+               <speaker>Qu.</speaker>
+               <p>By order and authority given me by the Spirit of the Living God, on the 31th day of the 10th month, 1655, about four a clock in the morning, the word of the Lord came to me, ſaying, write my controverſie with all the In<g ref="char:EOLhyphen"/>habitants of the earth. Hence I do ſay, that to take up a command from the Letter, and ſay Chriſt commands it, that thus you are in the witchcraft, <hi>Edw. Burrough</hi>'s works, <hi>p.</hi> 96. compared with. <hi>p.</hi> 105.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Is it witchcraft to ſtand in awe of Chriſt's Commands, to reverence their authority, to endeavour to our ut<g ref="char:EOLhyphen"/>moſt an obſervance thereof? if it be ſo, I have done with you; and I hope, if all ſober Chriſtians will conſider theſe things, they may eaſily ſee what eſteem you have of the holy Scriptures: but I will leave it, and proceed to another point.</p>
+            </sp>
+            <sp>
+               <speaker>Chriſtian.</speaker>
+               <p>Being well aſſured that you deny the Scriptures to be the rule of Faith and Practice, any farther than they agree with the Light within: I
+<pb n="20" facs="tcp:175323:11"/>
+would fain know what your opinion is concerning Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>Some are not aſhamed to tell the world in our name, that Chriſt was never viſible as to his bodily appear<g ref="char:EOLhyphen"/>ance, and conſequently, that we deny his coming in the fleſh above ſixteen hundred years ago, tho his coming is an article of our Chriſtian Belief, <hi>W. Pen, Truth further cleared, p.</hi> 37.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>I am almoſt certain, that never any one accuſed you for denying Chriſt's viſible appearance: that we all accuſe you of is, for denying that viſible appearance to be Chriſt, or part of Chriſt, to which you will not an<g ref="char:EOLhyphen"/>ſwer directly, ſignifying hereby you are pinched.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>We believe and confeſs Jeſus Chriſt took our nature upon him, and was like unto us in all things, ſin ex<g ref="char:EOLhyphen"/>cepted: that he was born of the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary,</hi> and ſuffered under <hi>Pontius Pilate,</hi> the Roman Governor, crucified, dead, and buried in the Sepulchre of <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> of <hi>Arimathea;</hi> that he roſe again the third day, and aſcended into Hea<g ref="char:EOLhyphen"/>ven,
+<pb n="21" facs="tcp:175323:11"/>
+and ſits on the right hand of God, in the power and majeſty of his Father, who will one day judge the world by him, even that bleſſed man Chriſt Jeſus, according to their works, <hi>ibid. p.</hi> 17, 18.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>This Creed ſeems very plauſible, as tho it were orthodox: but to the end, neither I, nor any others may be deceiv'd by it; I would ask thee theſe few queſtions; and I prithee anſwer me directly: (1ſt.) Whether Chriſt was be<g ref="char:EOLhyphen"/>fore he took that body; or whether the taking that body did not conſtitute him Chriſt?</p>
+               <p n="2">(2.) Whether Chriſt was ever vi<g ref="char:EOLhyphen"/>ſible? or whether he was Chriſt only as God, and ſo never ſeen with mortal eyes?</p>
+               <p n="3">(3) Whether God is Chriſt, and Chriſt be the Light? and whether the Light in it ſelf be the Chriſt of God? and if ſo, whether the Light did ſuffer under <hi>Pontius Pilate,</hi> was dead and bu<g ref="char:EOLhyphen"/>ried, roſe again the third day; and whe<g ref="char:EOLhyphen"/>ther the Light is aſcended into Heaven, and whether it now ſits on the right
+<pb n="22" facs="tcp:175323:12"/>
+hand of God? Anſwer me briefly, and directly hereunto, that ſo I may be ſa<g ref="char:EOLhyphen"/>tisfied: I will therefore repeat it again.</p>
+               <p n="1">(1ſt.) Whether Chriſt was before he took that body? or whether the taking that body did not conſtitute him Chriſt?</p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>Whoſe are the Fathers, and of whom as concerning the Fleſh Chriſt came, who is over all, God bleſſed for ever, <hi>Amen.</hi> Since here Chriſt is diſtin<g ref="char:EOLhyphen"/>guiſhed from the body he took, and made one with that God, who is over all, bleſſed for ever, <hi>Amen:</hi> As much as to ſay, of whoſe fleſh Chriſt took, therefore Chriſt was before he took it; or his taking it did not conſtitute him Chriſt, <hi>W. P. Chriſt Qua. p.</hi> 97.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>This is a direct anſwer, and it puts me out of all doubt, concerning your opinion in this matter: But ſince you deny that body to be part of Chriſt, was Chriſt ever viſible.</p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>
+                  <hi>Abraham</hi> ſaw my day, and re<g ref="char:EOLhyphen"/>ioyced; they ſtill harping upon that vi<g ref="char:EOLhyphen"/>ſible body, not thirty three years old; rep<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ied, <hi>thou art not yet fifty, and haſt thou ſeen</hi> Abraham? taking that to be
+<pb n="23" facs="tcp:175323:12"/>
+the <hi>Meſſiah,</hi> the Chriſt of God, and Sa<g ref="char:EOLhyphen"/>viour of the World he meant, which they ſaw with their carnal eyes, <hi>ibid. p.</hi> 96.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>'Tis believ'd among the Chri<g ref="char:EOLhyphen"/>ſtians that the Godhead, and Manhood conjoint, was the true Chriſt; but thou wilt have the Godhead only to be Chriſt. Certainly, I think herein haſt thou de<g ref="char:EOLhyphen"/>nied the true Chriſt; but art thou in good earneſt, was Chriſt never ſeen with carnal eyes.</p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>Chriſt was never ſeen with car<g ref="char:EOLhyphen"/>nal eyes, nor heard with carnal ears; <hi>Humphry Wolrich Declaration to the</hi> Bap<g ref="char:EOLhyphen"/>tiſt, <hi>page</hi> 13.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Doſt thou think any rational Man will conclude I have wronged you in calling you Impoſters and Cheats; ſurely you are no Miniſters of Chriſt, but falſe Prophets: becauſe you teſtifie contrary to the Scriptures; ſee <hi>Joh.</hi> 1.29 to the 42. and there you may read Chriſt was viſible, contrary to the bo d aſſertions of the <hi>Quakers:</hi> But it may be <hi>John</hi>'s Teſtimony here agrees not with the Light within, and therefore they re<g ref="char:EOLhyphen"/>ceive
+<pb n="24" facs="tcp:175323:13"/>
+it not; well it agrees with the Light in me, and I had rather believe <hi>John</hi> who ſaith, <hi>behold the Lamb of God</hi> (for I ſuppoſe he was a Chriſtian) then all the <hi>Quakers</hi> in the World: But what ſayeſt thou to this Lamb.</p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>The Outward Lamb ſhews forth the Inward Lamb. <hi>Chriſt. Qua. p.</hi> 97.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>I would fain know what thou meaneſt by outward and inward Lamb; if by the outward you mean the bodily appearance crucified at <hi>Jeruſalem,</hi> then you make good that ſaying, <hi>Jeſus Chriſt</hi> at <hi>Jeſulalem,</hi> a type, a figure, a ſhadow: If you mean the Paſchal Lamb under the Law, then the Chriſt Chriſtians be<g ref="char:EOLhyphen"/>lieve in, who was crucified at <hi>Jeruſalem,</hi> was not the antitype; and ſo the true Chriſt is denied by you. Well, but go on.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Nothing which was mortal was called Chriſt, <hi>J. W. Quakers Refuge, p</hi> 38. For thy word viſible, he is not, nor never was viſible to thee, nor thy generation; for thoſe that did profeſs the Scriptures, as thou and thy generation doth, cruci<g ref="char:EOLhyphen"/>fied him, <hi>Edw. Burrough's works, p.</hi> 34.</p>
+            </sp>
+            <sp>
+               <pb n="25" facs="tcp:175323:13"/>
+               <speaker>Chr.</speaker>
+               <p>
+                  <hi>J. Whitehead</hi> ſaith, nothing that was mortal was called <hi>Chriſt:</hi> and <hi>E. B.</hi> ſaith, the Querieſt and his generation crucified him; how could they crucifie him that was immortal? except you mean metaphorically, as <hi>W. Pen</hi> ſaith: if ſo, then <hi>Chriſt</hi> was not crucified in a proper, but metaphorical ſenſe! But ſince you deny him to be outward in any ſenſe, tell me what he is.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Chriſt is God, <hi>Chriſtian Quaker, p.</hi> 97. He is the Seed, <hi>ibid.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>What is God?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>The Light within, <hi>G. Fox</hi> the younger.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Since we are upon this Point, I ſhall make a little digreſſion from the matter in hand: <hi>T. H.</hi> having brought the Quaker in; ſaying, the Light within was God; he asks, did the Light within create all things? makes you anſwer, yea: ſee this confirmed, <hi>G Fox, Gr. Myſt. p.</hi> 185. the light which every man that cometh into the worid is enlightned withal, is <hi>Chriſt;</hi> by whom the world was made. Again, he asks, is the Light within the object of divine worſhip?
+<pb n="26" facs="tcp:175323:14"/>
+He makes you anſwer, yea: that this is true, ſee a Pamphlet entituled, <hi>Dam<g ref="char:EOLhyphen"/>nable Hereſie diſcovered:</hi> where the Au<g ref="char:EOLhyphen"/>thor ſays, 'tis damnable hereſie to deny to worſhip the meaſure of light in eve<g ref="char:EOLhyphen"/>ry man: thus you ſee the Light within is God, is the Creator of all things, is the obj<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct of divine worſhip, <hi>&amp;c.</hi> Theſe are therefore no forgeries, but real truths. Well, but you ſay <hi>Chriſt</hi> is the ſeed, where is this ſeed?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>It is inward and ſpi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itual, <hi>Chri<g ref="char:EOLhyphen"/>ſtia<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Quaker. p</hi> 97.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it not all one to ſay <hi>Chriſt</hi> is God, is the Seed, is the Light within: if ſo, c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Light within be crucifie?</p>
+            </sp>
+            <sp>
+               <speaker>Qu</speaker>
+               <p>Ye have <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ondemn'd and ki<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>'d the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt, <hi>James</hi> 5 5 6. that is, <hi>Chriſt Je<g ref="char:EOLhyphen"/>ſus</hi> in their heart, him they crucified, <hi>G. Keith Immediate <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>velation, p</hi> 77.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Was the Light within, or <hi>Chriſt</hi> in the hearts, cruc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d under <hi>Pontius Pilate?</hi> certainly your c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſeſſions to <hi>Chriſt's</hi> ſufferings, are but meer Equivo<g ref="char:EOLhyphen"/>cations. But go on.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>If there be any other <hi>Chriſt</hi> but he that was crucified within, he is the
+<pb n="27" facs="tcp:175323:14"/>
+falſe Chriſt; and he that hath not this Chriſt that was riſen, and cr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cified within, is a reprobate: though devils and reprobates may ta<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k of him with<g ref="char:EOLhyphen"/>out, <hi>G<g ref="char:punc">▪</g> Fox, Gr. My<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t p.</hi> 206.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>But ſince you have denied <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hriſt to be viſible, and conc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uded, tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> if there be any Chriſt but he that was c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d within, he is the falſe Chriſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> what do you think of thoſe Min<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſters that Preach Chriſt without?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>They that are falſe Preach Chriſt without, and bid people be ieve in him, as he is in Heaven above: but they that are true, Preach Chriſt within, <hi>Smith's Primmer, p.</hi> 8.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>This is a great difference in their Doctrine; for one to Preach without, and another to Preach Chriſt within.</p>
+            </sp>
+            <sp>
+               <speaker>Qu</speaker>
+               <p>Yea, it doth m ke as great a difference, and hath no more fellowſhip together than the Eaſt hath with the Weſt, <hi>ibid. p.</hi> 9.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>And is this an infallible tryal of them?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Yea, it will not deceive thee, but will certainly give thee underſtanding, <hi>ibid.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="28" facs="tcp:175323:15"/>
+               <speaker>Chr.</speaker>
+               <p>Thus you are in the Quakers eſteem; (you, Epiſcopal, Presbyterian, Independant, and Baptiſt,) falſe Preach<g ref="char:EOLhyphen"/>ers; and that which infallibly proves you ſo, is your Preaching Chriſt with<g ref="char:EOLhyphen"/>out, and bidding people look to him in Heaven above! But <hi>W. Pen,</hi> if this be falſe Doctrine, to Preach as thou ſayeſt, what doſt thou mean, when thou ſayeſt Chriſt aſcended into Heaven, and ſits at God's right hand?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>He is at the right hand of God, but I cannot believe he hath a perſonal being at the right hand of God without all men, <hi>G. Whitehead, Chriſt aſcended, p.</hi> 18. Chiſt in perſon remote in a body of fleſh, and not in men, is not Scrip<g ref="char:EOLhyphen"/>ture, but added, <hi>ibid. p.</hi> 69.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Is Chriſt no otherwiſe at God's right hand, than as he is in you?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>'Tis a falſe and lying imagina<g ref="char:EOLhyphen"/>tion, to imagine either Chriſt or God, and his right hand, to be ſo remote, as not to dwell in any man, <hi>G.W. ibid. p.</hi> 69. I deny that Chriſt hath now a body of fleſh and bones, circumſcrib'd (or limi<g ref="char:EOLhyphen"/>ted) in that Heaven which is above,
+<pb n="29" facs="tcp:175323:15"/>
+and out of every man on earth, <hi>J. Whitehead Quakers Refuge, p.</hi> 40.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Certainly you do but equivocate in all you ſay of Chriſt: hence 'tis plain that all you own concerning Chriſt, Heaven, and God's right hand, is no more then what is in you; but ſince you deny he hath a body of fleſh and bones, now in heaven, and out of e<g ref="char:EOLhyphen"/>very man on earth, do you believe he hath any body now.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Yea, the Church is his body, <hi>Edw. Borough's Works. p.</hi> 150.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Hath Chriſt no other body but his Church?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>To ſay Chriſt hath two bodies, one out of ſight of the Saints; there is ſo much wickedneſs and ignorange in the broachers of ſuch a particular, that it needs no anſwer, <hi>Burrough's, ibid. p.</hi> 151, 152. And now before he had accuſed any for ſaying Chriſt hath but one body, he ſhould have produced plain Scripture, that ſaith he has two, or is the head of two bodies, a natural and a ſpiritu<g ref="char:EOLhyphen"/>al, <hi>G. W. Apol. p.</hi> 33.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>You ſay the Church is Chriſt's body, I ſuppoſe you underſtand that to be his ſpi<g ref="char:EOLhyphen"/>ritual body; and then you deny he hath two bodies: hence 'tis plain you believe he hath no other body but his Church. But do you believe he ſhall ſo come, in like manner as he was ſeen go into heaven.</p>
+            </sp>
+            <sp>
+               <pb n="30" facs="tcp:175323:16"/>
+               <speaker>Qu.</speaker>
+               <p>I deny he ſhall come viſibly, and tho' it be ſaid in like manner, yet every like is not the ſame, <hi>G. Whitehead, Chriſt aſcended. p.</hi> 22.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Is not this a plain denial of Chriſt's ſecond perſonal coming?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>They are like to be deceived, who are expecting Chriſt's ſecond coming will be a Perſonal coming, which word perſon you add to the Scriptures; not minding the penalty, <hi>Revel.</hi> 22. <hi>G. W. ibid. p.</hi> 23.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>'Tis almoſt time to conclude, but be<g ref="char:EOLhyphen"/>fore we part, let me tell thee that from what hath been ſaid: I do gather, 1ſt. That you aſſert that Chriſt was before he took that body, and that the taking that body did con<g ref="char:EOLhyphen"/>ſtitute him Chriſt; nay, that it was no part of Chriſt. 2. That Chriſt was never viſible, nor ſeen with carnal eyes. 3. That Chriſt is God, and God is the Light within; and that this Light in it ſelf is the Chriſt of God; and that this Light was all the Chriſt that was crucified, which was crucified only with<g ref="char:EOLhyphen"/>in. 4. That Chriſt, Heaven, and God's right hand, is only within. 5. That Chriſt's ſecond coming will neither be viſible nor per<g ref="char:EOLhyphen"/>ſonal; conſequently, that he is come, as much as he will come. I think by this time I may ſafely conclude, that both the holy Scriptures, and the true Chriſt, is really denied by you, notwithſtanding your equivocations, and therefore Quakeriſm is the Miſtery of iniqui<g ref="char:EOLhyphen"/>ty;
+<pb n="31" facs="tcp:175323:16"/>
+or in it ſelf but a meer myſtical Ro<g ref="char:EOLhyphen"/>mance.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Strainings, Perverſions and falſe In<g ref="char:EOLhyphen"/>ferences, being the frequent practice of our Adverſaries; at which rate the Scriptures may be made to prove there is no God: if theſe words, the fool hath ſaid in his heart, be left out of the Text, <hi>The Quaker a Chriſti<g ref="char:EOLhyphen"/>an. p.</hi> 3</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>If thou thinkeſt fit I am willing to put it upon tryal; In the mean time I do affirm I have done ye no wrong, neither by curtail<g ref="char:EOLhyphen"/>ing, ſtraining, or miſapplying of your prin<g ref="char:EOLhyphen"/>ciples. I have taken many things immedi<g ref="char:EOLhyphen"/>ately from your own Books: Some things in<g ref="char:EOLhyphen"/>deed I have taken from <hi>Tho. Hick's Dialogues,</hi> I hope that's no offence to thee.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>
+                  <hi>Tho. Hicks</hi> is guilty of vile forgeries, <hi>Counterfeit Chriſtian Title page.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>I know you accuſe <hi>Tho. Hicks</hi> of many things, which I know he is not guilty of: but doſt thou indeed believe his quotations, in his Dialogues are forgeries.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>I never thought ſo, much leſs writ ſo, nor was that the queſtion, taking quotations for places cited, as to book and page; and if generally accepted by him, <hi>Countefeit Chri<g ref="char:EOLhyphen"/>an, p.</hi> 17.</p>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <p>Herein then doſt thou juſtify both him and me from forgeries in this matter; however I have ſeen the moſt part of what I
+<pb n="32" facs="tcp:175323:17" rendition="simple:additions"/>
+have here written, in your own Books. I ſhall now take my leave of thee, (deſiring thou mayeſt turn from Quakeriſm to Chri<g ref="char:EOLunhyphen"/>ſtianity) I ſhall addreſs my ſelf to the Rea<g ref="char:EOLunhyphen"/>der, whom I would heartily deſire he would ſeriouſly conſider what is here written; I de<g ref="char:EOLunhyphen"/>ſign it for thy good: and now Reader, con<g ref="char:EOLunhyphen"/>ſider, the true Chriſt is really denied by th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Quakers; and if ſo, they are no Chriſtians and ſo I hope thou wilt carefully avoid them and then, (as I have ſaid before) all other do<g ref="char:EOLunhyphen"/>ctrines fall to the ground. I might min<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many more of their groſs errors which as yet I have no<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> done; I ſhall mind but one, and that is the Reſurrectio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Dead, which tho' they pretend to own in ſom<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſenſe, I ſay they own it in no true ſenſe. I recommen<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all to the bleſſing of God, and reſt thy Friend,</p>
+            </sp>
+            <closer>
+               <signed>JOHN PLIMPTON.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>W. Pen</hi> tells you in his laſt Pamphlet, Intituled, <hi>Truth furth<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cleared, p. 44, 45. Principle</hi> 15th. that frou our denying t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reſurrection of the ſame natural and corruptible body, we are made deny the Reſurrection of any Body; however ſpiritual and glorifi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and even of eternal Reward too. Now if the Body riſe not, and t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſoul be part of God; ahen conſequently all eternal Rewards are de<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed, the firſt is denyed by <hi>W. Pen.</hi> The <hi>2d</hi> is aſſerted by <hi>G. Fox,</hi> th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King and Prophet, <hi>Great Myſtery p. 29. 68. 90. 100.</hi> in which pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ces 'tis plain from his words, that the ſoul being a ſpiritual ſubſtanc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is part of God, and God's Being, without beginning, and infinit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſequently Angels and Devils are Gods, being ſpiritual ſubſtanc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or part of God's Being. Such horrid Blaſphemy is <hi>G. Fox</hi> and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Quakers Guilty of.</p>
+            <div type="part">
+               <p>☞If any deſire to have any of theſe Books, let the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> come to my Lodging at Mrs. <hi>Bruntons</hi> in <hi>Great T<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>mas-Court,</hi> where they may be ſupplied.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
